@@ -16,3 +16,5 @@ AI Barack obama picture: OpenArt
 
 All 3d furniture used: https://assetstore.unity.com/packages/3d/props/interior/house-interior-essentials-258782
 
+Most code used was created for use in teaching CS 426. Specific author is unknown.
+
